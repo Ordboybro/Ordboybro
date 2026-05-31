@@ -1,26 +1,78 @@
-## Автор профиля ORDBOY
-Меня зовут **Мозжерин Артём** мне 14 и я занимаюсь кодингом с 03.01.2026.
+# 👋 Привет, я ORDBOY
 
-Python-разработчик в обучении. Люблю писать мини-проекты и изучать новые технологии.
+### 🚀 Python Developer & Web Developer
 
-Занимался 5 лет в академии Top.
+Меня зовут **Артём Мозжерин**, мне **14 лет**.
 
-<!--
-### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
--->
+💻 Занимаюсь программированием с **03.01.2026** и постоянно развиваюсь в сфере разработки.
 
-### Мой стек технологий
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript) 
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
-![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
+🎓 Обучался в **Компьютерной Академии TOP** на протяжении 5 лет.
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
--->
+Сейчас активно изучаю Python, веб-разработку и создаю собственные проекты.
 
-### Контакты
-[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@ordboy_ordboy)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ordboybroo)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Ordboybro)
+---
+
+## 🛠️ Технологии и инструменты
+
+### Языки программирования
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Веб-разработка
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Инструменты
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### Дополнительно
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+
+---
+
+## 📂 Мои проекты
+
+### 🎯 EmojiTasks
+
+Менеджер задач с современным интерфейсом.
+
+🔗 https://github.com/Ordboybro/EmojiTasks
+
+### 🔐 EmojiPass
+
+Генератор надёжных паролей.
+
+🔗 https://github.com/Ordboybro/EmojiPass
+
+### 🎰 Emoji Drops
+
+Собственный проект кейс-симулятора с системой редкостей, инвентарём, профилем, рулеткой и статистикой.
+
+---
+
+## 📊 GitHub Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ordboybro\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ordboybro\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Ordboybroo)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@ordboy_ordboy)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ordboybro)
+
+---
+
+⭐ Люблю создавать полезные проекты, изучать новые технологии и постоянно улучшать свои навыки разработки.
