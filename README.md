@@ -25,7 +25,7 @@ My goal is not to collect technologies — it's to build software that is **usef
 
 **Stack:** Python · PySide6 · Qt 6 · pytest · Ruff · PyInstaller
 
-urlRepositoryhttps://github.com/Ordboybro/OrdPaint
+[Repository](https://github.com/Ordboybro/OrdPaint)
 
 ---
 
@@ -41,7 +41,7 @@ My goal is not to collect technologies — it's to build software that is **usef
 
 **Stack:** Python · PySide6 · Qt · unittest · GitHub Actions
 
-urlRepositoryhttps://github.com/Ordboybro/OrdCloud
+[Repository](https://github.com/Ordboybro/OrdCloud)
 
 ---
 
@@ -58,7 +58,7 @@ My goal is not to collect technologies — it's to build software that is **usef
 
 **Stack:** HTML · CSS · Vanilla JavaScript
 
-urlLive demo / repositoryhttps://github.com/Ordboybro/EmojiTasks
+[Live demo / repository](https://github.com/Ordboybro/EmojiTasks)
 
 ---
 
@@ -74,7 +74,7 @@ My goal is not to collect technologies — it's to build software that is **usef
 
 **Stack:** HTML · CSS · Vanilla JavaScript · Web Crypto API
 
-urlRepositoryhttps://github.com/Ordboybro/EmojiPass
+[Repository](https://github.com/Ordboybro/EmojiPass)
 
 ---
 
